@@ -8,7 +8,7 @@
 
     Prerequisites: 
     
-    install docker - google instructions for your flavor or Linux or Mac or Windows 10
+    install docker - google instructions for your flavor of Linux or Mac or Windows 10
     
     install docker-compose
 
